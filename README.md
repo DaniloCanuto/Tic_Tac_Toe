@@ -1,4 +1,4 @@
-# [Tic_Tac_Toe](https://danilocanuto.github.io/Tic_Tac_Toe/)
+# [Tic_Tac_Toe](https://danilocanuto.github.io/Tic_Tac_Toe)
 
 <file src="standalone.html"/>
 
