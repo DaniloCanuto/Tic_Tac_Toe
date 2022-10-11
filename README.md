@@ -1,6 +1,6 @@
 # [Tic_Tac_Toe](https://danilocanuto.github.io/Tic_Tac_Toe)
 
-<file src="standalone.html"/>
+<file src="colorGame00.js"/>
 
 In this exercise, the objective was to create a fully operational Tic-Tac-Toe game using React.
 
